@@ -1,0 +1,499 @@
+.home-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .home-page .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .home-page .overlap {
+    position: absolute;
+    width: 1440px;
+    height: 845px;
+    top: 139px;
+    left: 0;
+  }
+  
+  .home-page .rectangle {
+    position: absolute;
+    width: 1440px;
+    height: 497px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .text-wrapper {
+    position: absolute;
+    width: 253px;
+    top: 221px;
+    left: 110px;
+    font-family: "Instrument Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 25px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper-2 {
+    position: absolute;
+    width: 232px;
+    top: 119px;
+    left: 129px;
+    font-family: "Instrument Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .about-us-button {
+    position: absolute;
+    width: 158px;
+    height: 62px;
+    top: 273px;
+    left: 156px;
+  }
+  
+  .home-page .overlap-group {
+    position: relative;
+    width: 163px;
+    height: 62px;
+    background-color: #896790;
+    border-radius: 12px;
+  }
+  
+  .home-page .text-wrapper-3 {
+    position: absolute;
+    width: 109px;
+    top: 10px;
+    left: 26px;
+    font-family: "Hind Vadodara-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 26px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .card {
+    position: absolute;
+    width: 327px;
+    height: 390px;
+    top: 455px;
+    left: 174px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 4px #00000040, 0px 5px 4px #00000040;
+  }
+  
+  .home-page .lorem-ipsum-is {
+    position: absolute;
+    width: 292px;
+    top: 249px;
+    left: 18px;
+    font-family: "Instrument Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .img {
+    position: absolute;
+    width: 252px;
+    height: 171px;
+    top: 24px;
+    left: 42px;
+  }
+  
+  .home-page .text-wrapper-4 {
+    position: absolute;
+    width: 102px;
+    top: 213px;
+    left: 113px;
+    font-family: "Instrument Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .home-page .card-2 {
+    left: 556px;
+    position: absolute;
+    width: 327px;
+    height: 390px;
+    top: 455px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 4px #00000040, 0px 5px 4px #00000040;
+  }
+  
+  .home-page .card-3 {
+    left: 938px;
+    position: absolute;
+    width: 327px;
+    height: 390px;
+    top: 455px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0px 4px 4px #00000040, 0px 5px 4px #00000040;
+  }
+  
+  .home-page .logo {
+    position: absolute;
+    width: 80px;
+    height: 55px;
+    top: 174px;
+    left: 1062px;
+  }
+  
+  .home-page .div-wrapper {
+    position: relative;
+    width: 257px;
+    height: 257px;
+    top: -101px;
+    left: -89px;
+    background-image: url(./img/rectangle-8.svg);
+    background-size: 100% 100%;
+  }
+  
+  .home-page .text-wrapper-5 {
+    position: absolute;
+    top: 100px;
+    left: 89px;
+    font-family: "Hind Vadodara-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 37px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .overlap-2 {
+    position: absolute;
+    width: 1440px;
+    height: 139px;
+    top: 0;
+    left: 0;
+  }
+  
+  .home-page .navbar {
+    position: absolute;
+    width: 1440px;
+    height: 139px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .home-page .component {
+    position: absolute;
+    width: 526px;
+    height: 56px;
+    top: 42px;
+    left: 479px;
+  }
+  
+  .home-page .text-wrapper-6 {
+    position: absolute;
+    width: 182px;
+    top: 1px;
+    left: 344px;
+    font-family: "Hind Vadodara-Regular", Helvetica;
+    font-weight: 400;
+    color: #7e7c7c;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper-7 {
+    position: absolute;
+    width: 150px;
+    top: -1px;
+    left: 147px;
+    font-family: "Hind Vadodara-Regular", Helvetica;
+    font-weight: 400;
+    color: #7e7c7c;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .text-wrapper-8 {
+    position: absolute;
+    width: 100px;
+    top: 1px;
+    left: 0;
+    font-family: "Hind Vadodara-Regular", Helvetica;
+    font-weight: 400;
+    color: #896790;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .component-2 {
+    position: absolute;
+    width: 178px;
+    height: 73px;
+    top: 37px;
+    left: 1083px;
+    background-color: #896790;
+    border-radius: 12px;
+  }
+  
+  .home-page .text-wrapper-9 {
+    position: absolute;
+    width: 116px;
+    top: 12px;
+    left: 31px;
+    font-family: "Hind Vadodara-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .home-page .mindspark {
+    position: absolute;
+    width: 135px;
+    height: 135px;
+    top: 2px;
+    left: 88px;
+    object-fit: cover;
+  }
+  
+  .home-page .component-3 {
+    position: absolute;
+    width: 178px;
+    height: 73px;
+    top: 37px;
+    left: 1083px;
+    background-image: url(./img/button.png);
+    background-size: 100% 100%;
+  }
+  
+
+.about-us {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .about-us .div {
+    background-color: #ffffff;
+    width: 1440px;
+    height: 1024px;
+    position: relative;
+  }
+  
+  .about-us .navbar {
+    position: absolute;
+    width: 1440px;
+    height: 139px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .about-us .text-wrapper {
+    position: absolute;
+    width: 230px;
+    top: 42px;
+    left: 46px;
+    -webkit-text-stroke: 0.5px #000000b2;
+    font-family: "Instrument Sans-Medium", Helvetica;
+    font-weight: 500;
+    color: #896790;
+    font-size: 43px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about-us .component {
+    position: absolute;
+    width: 526px;
+    height: 56px;
+    top: 42px;
+    left: 479px;
+  }
+  
+  .about-us .text-wrapper-2 {
+    position: absolute;
+    width: 182px;
+    top: 1px;
+    left: 344px;
+    font-family: "Hind Vadodara-Regular", Helvetica;
+    font-weight: 400;
+    color: #7e7c7c;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about-us .text-wrapper-3 {
+    position: absolute;
+    width: 150px;
+    top: -1px;
+    left: 147px;
+    font-family: "Hind Vadodara-Regular", Helvetica;
+    font-weight: 400;
+    color: #896790;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about-us .text-wrapper-4 {
+    position: absolute;
+    width: 100px;
+    top: 1px;
+    left: 0;
+    font-family: "Hind Vadodara-Regular", Helvetica;
+    font-weight: 400;
+    color: #878484;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about-us .div-wrapper {
+    position: absolute;
+    width: 178px;
+    height: 73px;
+    top: 37px;
+    left: 1083px;
+    background-color: #896790;
+    border-radius: 12px;
+  }
+  
+  .about-us .text-wrapper-5 {
+    position: absolute;
+    width: 116px;
+    top: 12px;
+    left: 31px;
+    font-family: "Hind Vadodara-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about-us .doctor {
+    position: absolute;
+    width: 521px;
+    height: 538px;
+    top: 234px;
+    left: 823px;
+  }
+  
+  .about-us .overlap-group {
+    position: relative;
+    height: 538px;
+  }
+  
+  .about-us .rectangle {
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 261px;
+    height: 381px;
+  }
+  
+  .about-us .rectangle-2 {
+    top: 157px;
+    left: 260px;
+    background-color: #896790;
+    border: 5px solid;
+    position: absolute;
+    width: 261px;
+    height: 381px;
+  }
+  
+  .about-us .img {
+    position: absolute;
+    width: 455px;
+    height: 466px;
+    top: 30px;
+    left: 32px;
+    object-fit: cover;
+  }
+  
+  .about-us .the-best-way-to-have {
+    position: absolute;
+    width: 654px;
+    height: 132px;
+    top: 325px;
+    left: 66px;
+  }
+  
+  .about-us .lorem-ipsum-is {
+    position: absolute;
+    width: 648px;
+    top: 176px;
+    left: 0;
+    font-family: "Instrument Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about-us .p {
+    position: absolute;
+    width: 654px;
+    top: -1px;
+    left: 0;
+    font-family: "Instrument Sans-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 58px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .about-us .know-us-button {
+    position: absolute;
+    width: 178px;
+    height: 73px;
+    top: 643px;
+    left: 277px;
+    background-color: #896790;
+    border-radius: 11px;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .about-us .text-wrapper-6 .link{
+    position: absolute;
+    top: 13px;
+    left: 32px;
+    font-family: "Hind Vadodara-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    text-decoration: none;
+  }
+  
